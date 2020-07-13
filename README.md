@@ -1,0 +1,1 @@
+This is a POC with Panolens to create two panoramas interlinked to each other.
